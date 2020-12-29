@@ -13,7 +13,6 @@ void solve(){
 //				cout <<"n: "<<n << endl;
 				long long temp = n&1;
 				if(temp==0) count++;
-				nGUY
 						count++;
 					}
 					n=n/2;
